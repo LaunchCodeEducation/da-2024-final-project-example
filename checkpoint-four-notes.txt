@@ -1,0 +1,19 @@
+Link out to this and cover it in Tableau report: https://www.cdc.gov/drink-less-be-your-best/facts-about-excessive-drinking/index.html
+
+
+
+
+
+
+Things to discover:
+* I want to see the response rate for collected data across race/ethnicity
+* Binge drinking higher in certain states?
+* Is general binge drinking rate higher for people 50-64, or is it the older category
+* Show binge drinking response right next to caretaker response for each location
+
+
+* If they expect to provide care and they're younger, are they more likely to binge drink?
+If they expect to provide care but they're older, do they abstain because of their age?
+
+
+Is there states where people are a lot less likely to think they'll be a caretaker?
